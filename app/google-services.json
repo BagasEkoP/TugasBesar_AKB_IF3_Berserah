@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "742457520771",
+    "firebase_url": "https://tubesakb-d0521-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "tubesakb-d0521",
+    "storage_bucket": "tubesakb-d0521.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:742457520771:android:d5edf72d0b5517b06ba1b6",
+        "android_client_info": {
+          "package_name": "com.example.tugasbesar_akb_if3_berserah"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "742457520771-a7ni8sdbvtdqvp30sdeo2ok2r3bhua77.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAeJHaSmCHm8XgteVhnkH-QWVc4L3Kc2QQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "742457520771-a7ni8sdbvtdqvp30sdeo2ok2r3bhua77.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

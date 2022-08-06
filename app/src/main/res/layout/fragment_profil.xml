@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+//Tanggal Pengerjaan    : 5 Agustus 2022
+//NIM   : 10119107
+//Nama  : Bagas Eko Pambudi
+//NIM   : 10119093
+//Nama  : Rafli Solihudin
+//NIM   : 10119095
+//Nama  : Ariq Alhafizh
+//NIM   : 10119086
+//Nama  : Seldi Syahrizal
+//Kelas : IF-3
+-->
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".ProfilFragment">
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="@color/purple_200"
+        android:gravity="center"
+        android:orientation="vertical">
+
+        <TextView
+            android:layout_marginTop="20dp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAlignment="center"
+            android:text="Profil Anggota Kelompok\nBerserah"
+            android:textStyle="bold"
+            android:textSize="25sp"/>
+
+        <TextView
+            android:layout_marginTop="15dp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAlignment="center"
+            android:text="Kelas IF-3"
+            android:textStyle="bold"
+            android:textSize="20sp"/>
+
+        <ImageView
+            android:layout_marginTop="40dp"
+            android:layout_width="500dp"
+            android:layout_height="300dp"
+            android:src="@drawable/dewek" />
+
+        <TextView
+            android:layout_marginTop="10dp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="NIM: 10119093"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Nama: Rafli Solihudin."/>
+
+
+        <ImageView
+            android:layout_marginTop="40dp"
+            android:layout_width="500dp"
+            android:layout_height="300dp"
+            android:src="@drawable/foto" />
+
+        <TextView
+            android:layout_marginTop="10dp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="NIM: 10119107"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Nama: Bagas Eko Pambudi"/>
+
+        <ImageView
+            android:layout_marginTop="40dp"
+            android:layout_width="500dp"
+            android:layout_height="300dp"
+            android:src="@drawable/seldi" />
+
+        <TextView
+            android:layout_marginTop="10dp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="NIM: 10119086"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Nama: Seldi Syahrizal"/>
+
+        <ImageView
+            android:layout_marginTop="40dp"
+            android:layout_width="500dp"
+            android:layout_height="300dp"
+            android:src="@drawable/aik" />
+
+        <TextView
+            android:layout_marginTop="10dp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="NIM: 10119095"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Nama: Ariq Alhafizh Andrian"/>
+
+
+
+
+    </LinearLayout>
+
+</ScrollView>

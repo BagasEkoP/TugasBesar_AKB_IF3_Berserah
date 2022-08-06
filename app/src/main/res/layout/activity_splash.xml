@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+//Tanggal Pengerjaan : 1 Agustus 2022
+//NIM   : 10119107
+//Nama  : Bagas Eko Pambudi
+//NIM   : 10119093
+//Nama  : Rafli Solihudin
+//Kelas : IF-3
+-->
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".SplashActivity"
+    android:background="@drawable/sp">
+
+    <TextView
+        android:id="@+id/tvSplashScreen"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textColor="@color/white"
+        android:textSize="38sp"
+        android:layout_centerInParent="true"
+        android:textStyle="bold" />
+
+
+</RelativeLayout>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+//Tanggal Pengerjaan : 3 Agustus 2022
+//NIM   : 10119107
+//Nama  : Bagas Eko Pambudi
+//NIM   : 10119093
+//Nama  : Rafli Solihudin
+//Kelas : IF-3
+-->
+<fragment xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/map"
+    android:name="com.google.android.gms.maps.SupportMapFragment"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MapsFragment" />
